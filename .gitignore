@@ -1,0 +1,14 @@
+# Training data
+processed_dataset
+
+# Virtualenv
+env
+
+# Cache
+__pycache__
+
+# Mac OS X
+.DS_Store
+
+# file upload
+data
