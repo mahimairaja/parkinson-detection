@@ -1,5 +1,9 @@
+
+
 # Training data
 processed_dataset
+
+.env
 
 # Virtualenv
 env
